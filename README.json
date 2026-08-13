@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Sorted by Technology and Category"
+    },
+    {
+      "description": "The Ultimate Cloud Security Championship: A monthly CTF challenge, with challenges curated by a Star Wiz researcher. Challenges and leaderboard hosted by Wiz.\nCloudFoxable: Create your own vulnerable by design AWS penetration testing playground.\nPwned Labs: Requires a login. Offers paid subscriptions. Free hosted labs for learning cloud security.\nThe Big IAM Challenge: CTF challenge to identify and exploit IAM misconfigurations.\nThe Cloud Hunting Games: CTF ransomware challenge designed to teach real-world cloud investation based on TTPs seen in the wild.\nCloudSec Tidbits: Three web app security flaws specific to AWS cloud, self-hosted with terraform.\nAWS CIRT Workshop: Build in your own AWS account and explore 5 common incident response scenarios as seen by the AWS CIRT team.\nCloudGoat: Vulnerable by design AWS security labs with guided walkthrough.\nAttacking and Defending Serverless Applications: Attack and defend a Lambda that you build in your own AWS account with author provided terraform and scripts. Very educational with workshop style feel.\nIAM Vulnerable: Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground with 31 privilege escalation attack pathways. Very solid documentation.\nflaws.cloud: Challenge style with levels and clues.\nflaws2.cloud: Challenge style with both Attacker and Defender paths.\nCI/CDon't: A vulnerable CI/CD CTF challenge hosted in your aws account with terraform. Includes a walkthrough.\nAWSGoat: A damn vulnerable AWS infrastructure with two attack and defense manuals.\nSadcloud: Create vulnerable AWS services without a guide showing vulnerabilities.\nDVCA: Deploy a Damn Vulnerable Cloud Application in your own AWS account to practice privilege escalation.\nlambhack: Deploy a very vulnerable AWS lambda serverless application in your AWS account.\nAWSCloudPentest: Deploy vulnerable AWS scenarios in your account using terraform and learn how to exploit them. He has a companion YouTube [channel[(https://www.youtube.com/@punitdarji1871).\nAWS Well-Architected Security Workshop: Self-deployed hands-on-labs to help you learn, measure, and improve the security of your architecture using best practices from the Security pillar of the AWS Well-Architected Framework.",
+      "items": [],
+      "title": "AWS"
+    },
+    {
+      "description": "EntraGoat: A deliberately vulnerable Microsoft Entra ID infrastructure. Uses Powershell Graph SDK scripts with a nice NodeJS web UI for management. Six vulnerable attack path scenarios with solutions documented.\nBadZure: Powershell Graph SDK script that spins up your own Azure AD (Entra ID) lab with attack paths. Currently no walk through or guide.\nBroken Azure: A vulnerable by design Azure infrastructure that you can attack.\nMandiant Azure Workshop: Vulnerable by design Azure lab with two scenarios that you build in your own Azure tenant.\nAzureGoat: Build one module with terraform and walk through the provided attack and defense manuals.\nXMGoat: Build 5 scenarios in your Azure tenant and walk through solution docs provided.\nCONVEX: Spin up three Capture the Flag environments in your Azure tenant using powershell.",
+      "items": [],
+      "title": "Azure"
+    },
+    {
+      "description": "| GCP CTF Workshop: Self-hosted, lab guide. Host in your own GCP account, build with terraform using bash setup script, solution and hints provided.\nGCP Goat (Josh Jebaraj): Host in your own GCP account and build with provided scripts. It has a nice guided lab workbook.\nGCPGoat (ine-labs): Bring your own GCP account and build one module with terraform. Provides attack and defense manuals.\nThunder CTF: Bring your own GCP account, 6 levels, practice attacking vulnerable cloud projects on GCP.",
+      "items": [],
+      "title": "GCP"
+    },
+    {
+      "description": "OWASP EKS Goat: An intentionally vulnerable AWS EKS environment simulating real‑world misconfigurations, IAM flaws, and pod breakout along with defense hands on lab. Includes 20+ attack‑defense labs you can deploy and practice hands‑on.\nK8s Lan Party: To dive into a network full of misconfigurations and exploit vulnerabilities with the goal of conquering a Kubernetes cluster, with leaderboard and requires registration.\nEKS Cluster Games: Vulnerable EKS pod with flag challenges across environment, with leaderboard and requires registration.\nBustakube: Download a vulnerable K8S cluster as VMs that you can import and run locally in VMWare.\nKubernetes Goat: Create and host in your own cloud account (GKE, EKS, AKS) or K3S and attack. Includes a guided workbook.\nKubecon NA 2019 CTF: Awesome CTF that you create in your GCP account. Has a guided workbook with two attack and defense scenarios plus bonus challenges.\nKube Security Lab: An awesome local lab to create 14 vulnerable Kubernetes clusters using Docker, Ansible, and Kind. Attack them after building, then destroy. Inludes walkthroughs.",
+      "items": [],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "Container Security 101: A guided vulnerability workshop that is hosted in your AWS account. Author has provided a nice lab you follow on the webpage and you build a VM with CloudFormation and then create a container.\nContained.af: A container escape challenge, break out of it and email the author.",
+      "items": [],
+      "title": "Container"
+    },
+    {
+      "description": "TerraGoat: Vulnerable by design terraform repository.",
+      "items": [],
+      "title": "Terraform"
+    },
+    {
+      "description": "PurpleCloud: Using python and terraform, build your own Azure security lab.\nSimuLand: Using Azure RM templates, create your own Azure security lab.\nCNAPPgoat: Using Pulumi, modularly provision vulnerable-by-design components in AWS, GCP, Azure. The vulnerabilities are modular scenarios with no guided walkthrough existing yet.",
+      "items": [],
+      "title": "Research Labs"
+    },
+    {
+      "description": "CI/CD Goat: Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF. Host locally with docker.\nGithub Actions Goat: Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account. Includes threat scenario descriptions mapped to vulnerabilities.",
+      "items": [],
+      "title": "CI/CD"
+    },
+    {
+      "description": "PaaS Cloud Goat: A simulated vulnerable Salesforce application, hosted in your own SF account. Simulates a deployed custom application with security tests and documentation you can use to learn.",
+      "items": [],
+      "title": "PaaS"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:03:58.686Z",
+    "original_repository": "iknowjason/Awesome-CloudSec-Labs",
+    "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
+    "enhanced_repository": "enhansome/enhansome-Awesome-CloudSec-Labs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cloud Security Labs with stars"
+  }
+}
