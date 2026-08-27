@@ -45,7 +45,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3708
+            "stars": 3709
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2018-09-12T18:58:37Z",
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 211
+            "stars": 210
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-06T11:19:10Z",
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-06T03:15:29Z",
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 518
+            "stars": 522
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5755
+            "stars": 5757
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2295
+            "stars": 2296
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-04-28T13:43:43Z",
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3708
+            "stars": 3709
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2018-09-12T18:58:37Z",
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 211
+            "stars": 210
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2026-05-06T11:19:10Z",
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2026-08-06T03:15:29Z",
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 518
+            "stars": 522
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-04-16T22:11:11Z",
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5755
+            "stars": 5757
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2295
+            "stars": 2296
           }
         },
         {
@@ -800,9 +800,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:29:23.899Z",
-    "original_repository": "iknowjason/Awesome-CloudSec-Labs",
-    "original_repository_id": 633824327,
+    "last_updated": "2026-08-27T11:21:57.311Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 633824327,
+      "language": null,
+      "last_commit": "2025-10-01T23:50:07Z",
+      "owner": "iknowjason",
+      "repo": "Awesome-CloudSec-Labs",
+      "stars": 2182
+    },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
     "enhanced_repository": "enhansome/enhansome-Awesome-CloudSec-Labs",
     "enhanced_repository_description": null,
