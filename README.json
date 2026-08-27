@@ -15,7 +15,7 @@
             "last_commit": "2026-05-01T21:21:58Z",
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2296
+            "stars": 2297
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-05-01T21:21:58Z",
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2024-07-14T11:26:38Z",
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2296
+            "stars": 2297
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:57.311Z",
+    "last_updated": "2026-08-27T17:52:56.494Z",
     "original_repository_info": {
       "archived": false,
       "id": 633824327,
@@ -808,7 +808,7 @@
       "last_commit": "2025-10-01T23:50:07Z",
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2182
+      "stars": 2183
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
     "enhanced_repository": "enhansome/enhansome-Awesome-CloudSec-Labs",
