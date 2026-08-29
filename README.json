@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create your own vulnerable by design AWS penetration testing playground",
+            "homepage": "https://cloudfoxable.bishopfox.com",
             "id": 590072290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T21:21:58Z",
+            "open_issues": 1,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 471
+            "stars": 471,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blogpost series showcasing interesting cloud - web app security bugs",
+            "homepage": "https://blog.doyensec.com",
             "id": 552484405,
             "language": "HCL",
+            "license": null,
             "last_commit": "2026-07-20T13:08:58Z",
+            "open_issues": 0,
             "owner": "doyensec",
             "repo": "cloudsec-tidbits",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "aws",
+              "cloudsecurity",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+            "homepage": null,
             "id": 141209050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
+            "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3712
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.",
+            "homepage": "https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground",
             "id": 344529392,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-03-12T15:38:01Z",
+            "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWSGoat : A Damn Vulnerable AWS Infrastructure",
+            "homepage": null,
             "id": 513468803,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-05-20T09:25:36Z",
+            "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2045
+            "stars": 2045,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure",
+            "homepage": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/october/sadcloud-templating-cloud-misconfigurations/",
             "id": 214713418,
             "language": "HCL",
+            "license": "AGPL-3.0",
             "last_commit": "2023-10-14T19:09:38Z",
+            "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable Cloud Application",
+            "homepage": null,
             "id": 145170462,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-09-12T18:58:37Z",
+            "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -122,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very vulnerable serverless application in AWS Lambda",
+            "homepage": null,
             "id": 81354133,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-10-07T16:30:37Z",
+            "open_issues": 1,
             "owner": "wickett",
             "repo": "lambhack",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -138,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I am creating AWS Cloud Pentesting Labs",
+            "homepage": null,
             "id": 881566326,
             "language": "HCL",
+            "license": null,
             "last_commit": "2025-09-06T09:37:52Z",
+            "open_issues": 0,
             "owner": "punitdarji",
             "repo": "AWSCloudPentest",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -154,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.",
+            "homepage": null,
             "id": 1020171325,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-05-06T11:19:10Z",
+            "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 976
+            "stars": 977,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -170,12 +224,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions, populating them with diverse entities and configurable, traversable attack paths.",
+            "homepage": null,
             "id": 636541972,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:39:04Z",
+            "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "attack-path",
+              "azure",
+              "entraid",
+              "purple-team"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -186,12 +250,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A broken-by-design Azure environment to practice and train security skills in the cloud domain. ",
+            "homepage": null,
             "id": 513110657,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-10-20T12:40:53Z",
+            "open_issues": 1,
             "owner": "bvcyber",
             "repo": "brokenbydesign-azure",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "azure",
+              "azure-ctf",
+              "cloud",
+              "cloud-village",
+              "ctf",
+              "dc20",
+              "defcon",
+              "defcon20",
+              "hacking",
+              "hacktoberfest",
+              "learning",
+              "secura",
+              "terraform",
+              "vulnerable"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -202,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 515640147,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-01T13:38:26Z",
+            "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -218,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+            "homepage": null,
             "id": 523055206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-30T06:37:46Z",
+            "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 962
+            "stars": 962,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -234,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 426994106,
             "language": "HCL",
+            "license": null,
             "last_commit": "2023-04-22T00:52:20Z",
+            "open_issues": 0,
             "owner": "XMCyber",
             "repo": "XMGoat",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -250,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CONVEX is a group of CTFs that are independently deployable into participant Azure environments.",
+            "homepage": null,
             "id": 275003611,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2022-05-16T13:34:19Z",
+            "open_issues": 1,
             "owner": "Azure",
             "repo": "CONVEX",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -266,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 859715408,
             "language": "HCL",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-29T11:42:23Z",
+            "open_issues": 0,
             "owner": "n0jam",
             "repo": "gcp-ctf-workshop",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -282,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GCPGoat : A Damn Vulnerable GCP Infrastructure",
+            "homepage": null,
             "id": 568696693,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-29T09:48:13Z",
+            "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -298,12 +412,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Goat is a \"Vulnerable by Design\" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀",
+            "homepage": "https://madhuakula.com/kubernetes-goat",
             "id": 269419110,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-16T22:11:11Z",
+            "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5760
+            "stars": 5760,
+            "topics": [
+              "blueteam",
+              "cloud-native",
+              "cloud-security",
+              "cloudsecurity",
+              "container",
+              "container-security",
+              "devsecops",
+              "docker",
+              "hacking",
+              "infrastructure",
+              "k8s",
+              "kubernetes",
+              "kubernetes-goat",
+              "kubernetes-security",
+              "owasp",
+              "pentesting",
+              "redteam",
+              "security",
+              "vulnerable-app"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -314,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 208473798,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-19T15:03:10Z",
+            "open_issues": 4,
             "owner": "raesene",
             "repo": "kube_security_lab",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -330,12 +474,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A stupid game for learning about containers, capabilities, and syscalls.",
+            "homepage": "https://contained.af",
             "id": 59441745,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-11T20:38:28Z",
+            "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 909
+            "stars": 909,
+            "topics": [
+              "apparmor",
+              "containers",
+              "docker",
+              "game",
+              "linux",
+              "opencontainers",
+              "seccomp",
+              "security",
+              "syscalls"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -346,12 +505,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+            "homepage": "https://www.bridgecrew.io/",
             "id": 250592027,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-13T12:11:17Z",
+            "open_issues": 61,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1305
+            "stars": 1305,
+            "topics": [
+              "aws-security",
+              "azure-security",
+              "cloud-security",
+              "devsecops",
+              "gcp-security",
+              "goat",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -362,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand adversary tradecraft and improve detection strategies",
+            "homepage": null,
             "id": 355445496,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2023-03-09T19:10:33Z",
+            "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 714
+            "stars": 714,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -378,12 +555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.",
+            "homepage": null,
             "id": 673793125,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-04T17:12:55Z",
+            "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 296
+            "stars": 296,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -394,12 +576,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
+            "homepage": null,
             "id": 474598050,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-14T11:26:38Z",
+            "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2297
+            "stars": 2297,
+            "topics": [
+              "appsec",
+              "cicd",
+              "ctf",
+              "devops",
+              "devsecops",
+              "gitlab",
+              "infosec",
+              "jenkins",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -410,12 +607,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment",
+            "homepage": "https://www.stepsecurity.io",
             "id": 402875775,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-27T08:19:17Z",
+            "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 516
+            "stars": 516,
+            "topics": [
+              "actions",
+              "attack-simulation",
+              "attack-simulator",
+              "devsecops",
+              "hacking",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -426,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PaaS Cloud Goat is a simulated vulnerable Salesforce application providing hands-on experience with penetration testing of custom Salesforce applications.",
+            "homepage": null,
             "id": 811993787,
             "language": "Apex",
+            "license": "AGPL-3.0",
             "last_commit": "2024-11-21T22:33:35Z",
+            "open_issues": 0,
             "owner": "Coalfire-Research",
             "repo": "paas-cloud-goat",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -448,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create your own vulnerable by design AWS penetration testing playground",
+            "homepage": "https://cloudfoxable.bishopfox.com",
             "id": 590072290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T21:21:58Z",
+            "open_issues": 1,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 471
+            "stars": 471,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -464,12 +683,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blogpost series showcasing interesting cloud - web app security bugs",
+            "homepage": "https://blog.doyensec.com",
             "id": 552484405,
             "language": "HCL",
+            "license": null,
             "last_commit": "2026-07-20T13:08:58Z",
+            "open_issues": 0,
             "owner": "doyensec",
             "repo": "cloudsec-tidbits",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "aws",
+              "cloudsecurity",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -480,12 +708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+            "homepage": null,
             "id": 141209050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
+            "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3712
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -496,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground.",
+            "homepage": "https://labs.bishopfox.com/tech-blog/iam-vulnerable-an-aws-iam-privilege-escalation-playground",
             "id": 344529392,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-03-12T15:38:01Z",
+            "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -512,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AWSGoat : A Damn Vulnerable AWS Infrastructure",
+            "homepage": null,
             "id": 513468803,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-05-20T09:25:36Z",
+            "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2045
+            "stars": 2045,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -528,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure",
+            "homepage": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/october/sadcloud-templating-cloud-misconfigurations/",
             "id": 214713418,
             "language": "HCL",
+            "license": "AGPL-3.0",
             "last_commit": "2023-10-14T19:09:38Z",
+            "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -544,12 +792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damn Vulnerable Cloud Application",
+            "homepage": null,
             "id": 145170462,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-09-12T18:58:37Z",
+            "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -560,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very vulnerable serverless application in AWS Lambda",
+            "homepage": null,
             "id": 81354133,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-10-07T16:30:37Z",
+            "open_issues": 1,
             "owner": "wickett",
             "repo": "lambhack",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -576,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I am creating AWS Cloud Pentesting Labs",
+            "homepage": null,
             "id": 881566326,
             "language": "HCL",
+            "license": null,
             "last_commit": "2025-09-06T09:37:52Z",
+            "open_issues": 0,
             "owner": "punitdarji",
             "repo": "AWSCloudPentest",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -598,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.",
+            "homepage": null,
             "id": 1020171325,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-05-06T11:19:10Z",
+            "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 976
+            "stars": 977,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -614,12 +882,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions, populating them with diverse entities and configurable, traversable attack paths.",
+            "homepage": null,
             "id": 636541972,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:39:04Z",
+            "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "attack-path",
+              "azure",
+              "entraid",
+              "purple-team"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -630,12 +908,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 515640147,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-01T13:38:26Z",
+            "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 616
+            "stars": 616,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -646,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+            "homepage": null,
             "id": 523055206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-30T06:37:46Z",
+            "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 962
+            "stars": 962,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -662,12 +950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 426994106,
             "language": "HCL",
+            "license": null,
             "last_commit": "2023-04-22T00:52:20Z",
+            "open_issues": 0,
             "owner": "XMCyber",
             "repo": "XMGoat",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -678,12 +971,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CONVEX is a group of CTFs that are independently deployable into participant Azure environments.",
+            "homepage": null,
             "id": 275003611,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2022-05-16T13:34:19Z",
+            "open_issues": 1,
             "owner": "Azure",
             "repo": "CONVEX",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -700,12 +998,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Goat is a \"Vulnerable by Design\" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀",
+            "homepage": "https://madhuakula.com/kubernetes-goat",
             "id": 269419110,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-16T22:11:11Z",
+            "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5760
+            "stars": 5760,
+            "topics": [
+              "blueteam",
+              "cloud-native",
+              "cloud-security",
+              "cloudsecurity",
+              "container",
+              "container-security",
+              "devsecops",
+              "docker",
+              "hacking",
+              "infrastructure",
+              "k8s",
+              "kubernetes",
+              "kubernetes-goat",
+              "kubernetes-security",
+              "owasp",
+              "pentesting",
+              "redteam",
+              "security",
+              "vulnerable-app"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -716,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 208473798,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-19T15:03:10Z",
+            "open_issues": 4,
             "owner": "raesene",
             "repo": "kube_security_lab",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -738,12 +1066,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A stupid game for learning about containers, capabilities, and syscalls.",
+            "homepage": "https://contained.af",
             "id": 59441745,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-11T20:38:28Z",
+            "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 909
+            "stars": 909,
+            "topics": [
+              "apparmor",
+              "containers",
+              "docker",
+              "game",
+              "linux",
+              "opencontainers",
+              "seccomp",
+              "security",
+              "syscalls"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -760,12 +1103,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+            "homepage": "https://www.bridgecrew.io/",
             "id": 250592027,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-13T12:11:17Z",
+            "open_issues": 61,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1305
+            "stars": 1305,
+            "topics": [
+              "aws-security",
+              "azure-security",
+              "cloud-security",
+              "devsecops",
+              "gcp-security",
+              "goat",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -782,12 +1138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand adversary tradecraft and improve detection strategies",
+            "homepage": null,
             "id": 355445496,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2023-03-09T19:10:33Z",
+            "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 714
+            "stars": 714,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -798,12 +1159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.",
+            "homepage": null,
             "id": 673793125,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-04T17:12:55Z",
+            "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 296
+            "stars": 296,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -820,12 +1186,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.",
+            "homepage": null,
             "id": 474598050,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-14T11:26:38Z",
+            "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2297
+            "stars": 2297,
+            "topics": [
+              "appsec",
+              "cicd",
+              "ctf",
+              "devops",
+              "devsecops",
+              "gitlab",
+              "infosec",
+              "jenkins",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         },
@@ -836,12 +1217,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment",
+            "homepage": "https://www.stepsecurity.io",
             "id": 402875775,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-27T08:19:17Z",
+            "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 516
+            "stars": 516,
+            "topics": [
+              "actions",
+              "attack-simulation",
+              "attack-simulator",
+              "devsecops",
+              "hacking",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
         }
@@ -850,15 +1243,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:59:16.120Z",
+    "last_updated": "2026-08-29T04:25:58.381Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
+      "homepage": null,
       "id": 633824327,
       "language": null,
+      "license": null,
       "last_commit": "2025-10-01T23:50:07Z",
+      "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2183
+      "stars": 2183,
+      "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
     "enhanced_repository": "enhansome/enhansome-Awesome-CloudSec-Labs",
