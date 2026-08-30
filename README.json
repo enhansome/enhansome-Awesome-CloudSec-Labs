@@ -585,7 +585,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2297,
+            "stars": 2298,
             "topics": [
               "appsec",
               "cicd",
@@ -1195,7 +1195,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2297,
+            "stars": 2298,
             "topics": [
               "appsec",
               "cicd",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:49:06.245Z",
+    "last_updated": "2026-08-30T12:11:33.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
