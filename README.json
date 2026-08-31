@@ -212,7 +212,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 978,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5760,
+            "stars": 5762,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -870,7 +870,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 978,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5760,
+            "stars": 5762,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:11:33.676Z",
+    "last_updated": "2026-08-31T14:22:45.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2183,
+      "stars": 2184,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
