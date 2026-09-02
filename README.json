@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -65,7 +65,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3712,
+            "stars": 3714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -128,7 +128,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 789,
+            "stars": 790,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -316,7 +316,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 962,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5766,
+            "stars": 5769,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -483,7 +483,7 @@
             "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 909,
+            "stars": 908,
             "topics": [
               "apparmor",
               "containers",
@@ -616,7 +616,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "actions",
               "attack-simulation",
@@ -671,7 +671,7 @@
             "open_issues": 1,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -717,7 +717,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3712,
+            "stars": 3714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -780,7 +780,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 789,
+            "stars": 790,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -801,7 +801,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -938,7 +938,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 962,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5766,
+            "stars": 5769,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1075,7 +1075,7 @@
             "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 909,
+            "stars": 908,
             "topics": [
               "apparmor",
               "containers",
@@ -1226,7 +1226,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:58:59.892Z",
+    "last_updated": "2026-09-02T11:41:33.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2186,
+      "stars": 2187,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
