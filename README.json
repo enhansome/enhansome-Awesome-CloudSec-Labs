@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2045,
+            "stars": 2044,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -316,7 +316,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 963,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 454,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5769,
+            "stars": 5770,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -585,7 +585,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2297,
+            "stars": 2298,
             "topics": [
               "appsec",
               "cicd",
@@ -738,7 +738,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -759,7 +759,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2045,
+            "stars": 2044,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -938,7 +938,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 963,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5769,
+            "stars": 5770,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1195,7 +1195,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2297,
+            "stars": 2298,
             "topics": [
               "appsec",
               "cicd",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:41:06.995Z",
+    "last_updated": "2026-09-04T11:42:36.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2188,
+      "stars": 2187,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
