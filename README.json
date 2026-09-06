@@ -212,7 +212,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 980,
+            "stars": 981,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -316,7 +316,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 963,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5770,
+            "stars": 5771,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -483,7 +483,7 @@
             "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "apparmor",
               "containers",
@@ -616,7 +616,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "actions",
               "attack-simulation",
@@ -870,7 +870,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 980,
+            "stars": 981,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -938,7 +938,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 963,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5770,
+            "stars": 5771,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1075,7 +1075,7 @@
             "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "apparmor",
               "containers",
@@ -1226,7 +1226,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:53:50.578Z",
+    "last_updated": "2026-09-06T11:18:51.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2187,
+      "stars": 2188,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
