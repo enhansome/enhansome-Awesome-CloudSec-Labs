@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -65,7 +65,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3721,
+            "stars": 3722,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2045,
+            "stars": 2046,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -671,7 +671,7 @@
             "open_issues": 1,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 472,
+            "stars": 473,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -717,7 +717,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3721,
+            "stars": 3722,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -759,7 +759,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2045,
+            "stars": 2046,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:43:06.973Z",
+    "last_updated": "2026-09-09T11:48:31.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
