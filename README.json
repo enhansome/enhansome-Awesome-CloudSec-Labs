@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:48:31.777Z",
+    "last_updated": "2026-09-10T11:46:17.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2190,
+      "stars": 2191,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
