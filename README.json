@@ -62,7 +62,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
             "stars": 3729,
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5780,
+            "stars": 5783,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -714,7 +714,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-28T13:43:43Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
             "stars": 3729,
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5780,
+            "stars": 5783,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:18:07.893Z",
+    "last_updated": "2026-09-15T12:03:52.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2194,
+      "stars": 2195,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
