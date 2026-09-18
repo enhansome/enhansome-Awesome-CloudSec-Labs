@@ -50,7 +50,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 | [SimuLand](https://github.com/Azure/SimuLand) ⭐ 713 \| 🐛 5 \| 🌐 PowerShell \| 📅 2023-03-09                                   |      Azure      |                Research Lab                |                                             [Roberto Rodriguez](https://twitter.com/Cyb3rWard0g)                                             |                                                                                   Using Azure RM templates, create your own Azure security lab                                                                                   |
 | [CNAPPgoat](https://github.com/ermetic-research/cnappgoat) ⭐ 296 \| 🐛 4 \| 🌐 Go \| 📅 2024-09-04                              | AWS, Azure, GCP |                Research Lab                | [Ermetic Research](https://ermetic.com/blog/cloud/cnappgoat-multicloud-open-source-tool-for-deploying-vulnerable-by-design-cloud-resources/) |                                                                       Using Pulumi, modularly provision vulnerable-by-design components in AWS, GCP, Azure                                                                       |
 | [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) ⭐ 2,303 \| 🐛 0 \| 🌐 Python \| 📅 2024-07-14                |      CI/CD      |              CTF, local docker             |                                [Palo Alto](https://www.paloaltonetworks.com/prisma/cloud/cloud-code-security)                                |                                                              Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.                                                             |
-| [Github Actions Goat](https://github.com/step-security/github-actions-goat) ⭐ 518 \| 🐛 21 \| 🌐 JavaScript \| 📅 2025-06-27    |      CI/CD      |             Self-hosted Github             |                                                 [StepSecurity](https://www.stepsecurity.io/)                                                 |                                  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.                                  |
+| [Github Actions Goat](https://github.com/step-security/github-actions-goat) ⭐ 519 \| 🐛 21 \| 🌐 JavaScript \| 📅 2025-06-27    |      CI/CD      |             Self-hosted Github             |                                                 [StepSecurity](https://www.stepsecurity.io/)                                                 |                                  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.                                  |
 | [PaaS Cloud Goat](https://github.com/Coalfire-Research/paas-cloud-goat) ⭐ 8 \| 🐛 0 \| 🌐 Apex \| 📅 2024-11-21                 |       PaaS      |    Deployed into your Salesforce account   |                                                  [Coalfire Research](https://coalfire.com/)                                                  |                        A simulated vulnerable Salesforce application, hosted in your own SF account.  Simulates a deployed custom application with security tests and documentation you can use to learn.                        |
 
 ## AWS
@@ -157,7 +157,7 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) ⭐ 2,303 | 🐛 0 | 🌐 Python | 📅 2024-07-14:  Deliberately vulnerable CI/CD environment, hacking CI/CD pipelines with CTF.  Host locally with docker.
 
-[Github Actions Goat](https://github.com/step-security/github-actions-goat) ⭐ 518 | 🐛 21 | 🌐 JavaScript | 📅 2025-06-27:  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.
+[Github Actions Goat](https://github.com/step-security/github-actions-goat) ⭐ 519 | 🐛 21 | 🌐 JavaScript | 📅 2025-06-27:  Deliberately vulnerable Github Actions CI/CD environment, hosted in your own Github account.  Includes threat scenario descriptions mapped to vulnerabilities.
 
 ## PaaS
 
@@ -165,4 +165,4 @@ A list of free cloud native security learning labs. Includes CTF, self-hosted wo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

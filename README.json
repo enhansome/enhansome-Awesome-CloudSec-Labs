@@ -616,7 +616,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1226,7 +1226,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 518,
+            "stars": 519,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:01:13.324Z",
+    "last_updated": "2026-09-18T11:46:10.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
