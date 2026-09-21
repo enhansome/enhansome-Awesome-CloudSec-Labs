@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "attack-path",
               "azure",
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "attack-path",
               "azure",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:46:30.224Z",
+    "last_updated": "2026-09-21T13:17:58.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
