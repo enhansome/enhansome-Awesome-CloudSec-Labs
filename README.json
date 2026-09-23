@@ -65,7 +65,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3732,
+            "stars": 3734,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2047,
+            "stars": 2045,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -128,7 +128,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 792,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 525,
+            "stars": 524,
             "topics": [
               "attack-path",
               "azure",
@@ -316,7 +316,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 456,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5791,
+            "stars": 5792,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -514,7 +514,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1307,
+            "stars": 1306,
             "topics": [
               "aws-security",
               "azure-security",
@@ -717,7 +717,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3732,
+            "stars": 3734,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -759,7 +759,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2047,
+            "stars": 2045,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -780,7 +780,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 792,
+            "stars": 791,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 525,
+            "stars": 524,
             "topics": [
               "attack-path",
               "azure",
@@ -938,7 +938,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5791,
+            "stars": 5792,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1112,7 +1112,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1307,
+            "stars": 1306,
             "topics": [
               "aws-security",
               "azure-security",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:01:10.867Z",
+    "last_updated": "2026-09-23T12:05:08.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2197,
+      "stars": 2195,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
