@@ -128,7 +128,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 792,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -780,7 +780,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 792,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:09:25.535Z",
+    "last_updated": "2026-09-26T11:44:04.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
