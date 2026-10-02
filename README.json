@@ -229,7 +229,7 @@
             "id": 636541972,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T17:22:59Z",
+            "last_commit": "2026-10-02T03:28:26Z",
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 456,
+            "stars": 457,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5859,
+            "stars": 5871,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -887,7 +887,7 @@
             "id": 636541972,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T17:22:59Z",
+            "last_commit": "2026-10-02T03:28:26Z",
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5859,
+            "stars": 5871,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:51:02.750Z",
+    "last_updated": "2026-10-02T13:07:07.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2198,
+      "stars": 2199,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
