@@ -65,7 +65,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3748,
+            "stars": 3749,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2052,
+            "stars": 2053,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5880,
+            "stars": 5888,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -585,7 +585,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2313,
+            "stars": 2314,
             "topics": [
               "appsec",
               "cicd",
@@ -616,7 +616,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "actions",
               "attack-simulation",
@@ -717,7 +717,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3748,
+            "stars": 3749,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -759,7 +759,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2052,
+            "stars": 2053,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5880,
+            "stars": 5888,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1195,7 +1195,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2313,
+            "stars": 2314,
             "topics": [
               "appsec",
               "cicd",
@@ -1226,7 +1226,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:58:59.872Z",
+    "last_updated": "2026-10-04T12:49:47.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
