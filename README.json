@@ -65,7 +65,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3749,
+            "stars": 3748,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2053,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -212,7 +212,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "attack-path",
               "azure",
@@ -295,7 +295,7 @@
             "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 615,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -316,7 +316,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "XMCyber",
             "repo": "XMGoat",
-            "stars": 178,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -358,7 +358,7 @@
             "open_issues": 1,
             "owner": "Azure",
             "repo": "CONVEX",
-            "stars": 140,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 457,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5888,
+            "stars": 5895,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -543,7 +543,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -717,7 +717,7 @@
             "open_issues": 24,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3749,
+            "stars": 3748,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -738,7 +738,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -759,7 +759,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2053,
+            "stars": 2052,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -801,7 +801,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -870,7 +870,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 987,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "attack-path",
               "azure",
@@ -917,7 +917,7 @@
             "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 615,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -938,7 +938,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -959,7 +959,7 @@
             "open_issues": 0,
             "owner": "XMCyber",
             "repo": "XMGoat",
-            "stars": 178,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -980,7 +980,7 @@
             "open_issues": 1,
             "owner": "Azure",
             "repo": "CONVEX",
-            "stars": 140,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5888,
+            "stars": 5895,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1147,7 +1147,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:49:47.820Z",
+    "last_updated": "2026-10-05T15:13:45.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2199,
+      "stars": 2198,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
