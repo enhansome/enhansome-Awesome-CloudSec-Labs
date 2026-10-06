@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5898,
+            "stars": 5899,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5898,
+            "stars": 5899,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:30:10.408Z",
+    "last_updated": "2026-10-06T13:34:55.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
