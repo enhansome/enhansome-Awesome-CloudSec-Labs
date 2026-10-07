@@ -61,11 +61,11 @@
             "id": 141209050,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T19:12:24Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-06T14:45:09Z",
+            "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3749,
+            "stars": 3751,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -379,7 +379,7 @@
             "open_issues": 0,
             "owner": "n0jam",
             "repo": "gcp-ctf-workshop",
-            "stars": 41,
+            "stars": 42,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 456,
+            "stars": 457,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +421,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5899,
+            "stars": 5905,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -564,7 +564,7 @@
             "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -713,11 +713,11 @@
             "id": 141209050,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-05T19:12:24Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-06T14:45:09Z",
+            "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3749,
+            "stars": 3751,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +1007,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5899,
+            "stars": 5905,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1168,7 +1168,7 @@
             "open_issues": 4,
             "owner": "tenable",
             "repo": "cnappgoat",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:34:55.060Z",
+    "last_updated": "2026-10-07T13:51:22.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
