@@ -128,7 +128,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 794,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -171,27 +171,6 @@
             "owner": "wickett",
             "repo": "lambhack",
             "stars": 97,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:59:16.120Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AWSCloudPentest",
-          "description": "AWS Self-hosted lab Punit Darji Deploy vulnerable AWS scenarios in your account using terraform and learn how to exploit them. Companion YouTube channel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "I am creating AWS Cloud Pentesting Labs",
-            "homepage": null,
-            "id": 881566326,
-            "language": "HCL",
-            "license": null,
-            "last_commit": "2025-09-06T09:37:52Z",
-            "open_issues": 0,
-            "owner": "punitdarji",
-            "repo": "AWSCloudPentest",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +379,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -421,7 +400,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5905,
+            "stars": 5906,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -780,7 +759,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 794,
+            "stars": 793,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -823,27 +802,6 @@
             "owner": "wickett",
             "repo": "lambhack",
             "stars": 97,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:59:16.120Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AWSCloudPentest",
-          "description": "Deploy vulnerable AWS scenarios in your account using terraform and learn how to exploit them. He has a companion YouTube [channel[(https://www.youtube.com/@punitdarji1871).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "I am creating AWS Cloud Pentesting Labs",
-            "homepage": null,
-            "id": 881566326,
-            "language": "HCL",
-            "license": null,
-            "last_commit": "2025-09-06T09:37:52Z",
-            "open_issues": 0,
-            "owner": "punitdarji",
-            "repo": "AWSCloudPentest",
-            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1007,7 +965,7 @@
             "open_issues": 28,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5905,
+            "stars": 5906,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1243,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:51:22.618Z",
+    "last_updated": "2026-10-08T13:58:25.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1213,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2200,
+      "stars": 2201,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
