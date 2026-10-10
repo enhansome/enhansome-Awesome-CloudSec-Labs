@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 476,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -493,7 +493,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1307,
+            "stars": 1306,
             "topics": [
               "aws-security",
               "azure-security",
@@ -650,7 +650,7 @@
             "open_issues": 2,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 476,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1070,7 +1070,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1307,
+            "stars": 1306,
             "topics": [
               "aws-security",
               "azure-security",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:42:10.181Z",
+    "last_updated": "2026-10-10T13:00:34.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1213,7 +1213,7 @@
       "open_issues": 5,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2201,
+      "stars": 2200,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
