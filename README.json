@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3752,
+            "stars": 3753,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -595,7 +595,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "actions",
               "attack-simulation",
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3752,
+            "stars": 3753,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1184,7 +1184,7 @@
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "actions",
               "attack-simulation",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:00:34.955Z",
+    "last_updated": "2026-10-11T13:28:12.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
