@@ -191,7 +191,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1002,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -358,7 +358,7 @@
             "open_issues": 0,
             "owner": "n0jam",
             "repo": "gcp-ctf-workshop",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -379,7 +379,7 @@
             "open_issues": 5,
             "owner": "ine-labs",
             "repo": "GCPGoat",
-            "stars": 463,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5912,
+            "stars": 5913,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2323,
+            "stars": 2324,
             "topics": [
               "appsec",
               "cicd",
@@ -828,7 +828,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1002,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5912,
+            "stars": 5913,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1153,7 +1153,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2323,
+            "stars": 2324,
             "topics": [
               "appsec",
               "cicd",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:52:06.919Z",
+    "last_updated": "2026-10-17T11:08:26.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
