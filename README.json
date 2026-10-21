@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 475,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -62,10 +62,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-14T20:57:46Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3762,
+            "stars": 3763,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5914,
+            "stars": 5916,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -493,7 +493,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "aws-security",
               "azure-security",
@@ -650,7 +650,7 @@
             "open_issues": 2,
             "owner": "BishopFox",
             "repo": "cloudfoxable",
-            "stars": 475,
+            "stars": 474,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -693,10 +693,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-14T20:57:46Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3762,
+            "stars": 3763,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5914,
+            "stars": 5916,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1070,7 +1070,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1314,
+            "stars": 1315,
             "topics": [
               "aws-security",
               "azure-security",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:05:23.933Z",
+    "last_updated": "2026-10-21T12:19:33.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1210,7 +1210,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-10-01T23:50:07Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
       "stars": 2206,
