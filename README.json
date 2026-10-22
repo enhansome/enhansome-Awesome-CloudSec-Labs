@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3762,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -149,7 +149,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -191,7 +191,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1005,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3762,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -780,7 +780,7 @@
             "open_issues": 0,
             "owner": "m6a-UdS",
             "repo": "dvca",
-            "stars": 214,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -828,7 +828,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1005,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:19:33.733Z",
+    "last_updated": "2026-10-22T12:20:49.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
