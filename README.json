@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3762,
+            "stars": 3761,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -191,7 +191,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1017,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -212,7 +212,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "attack-path",
               "azure",
@@ -274,7 +274,7 @@
             "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 615,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -295,7 +295,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -522,7 +522,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 715,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2323,
+            "stars": 2324,
             "topics": [
               "appsec",
               "cicd",
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3762,
+            "stars": 3761,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -828,7 +828,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1017,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -849,7 +849,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 529,
+            "stars": 528,
             "topics": [
               "attack-path",
               "azure",
@@ -875,7 +875,7 @@
             "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 615,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -896,7 +896,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1105,7 +1105,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 715,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1153,7 +1153,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2323,
+            "stars": 2324,
             "topics": [
               "appsec",
               "cicd",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:34:18.949Z",
+    "last_updated": "2026-10-25T11:57:31.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1213,7 +1213,7 @@
       "open_issues": 6,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2206,
+      "stars": 2207,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
