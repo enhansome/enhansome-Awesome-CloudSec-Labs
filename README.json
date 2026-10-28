@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3764,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 595,
+            "stars": 596,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5923,
+            "stars": 5922,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3763,
+            "stars": 3764,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 595,
+            "stars": 596,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5923,
+            "stars": 5922,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:38:03.206Z",
+    "last_updated": "2026-10-28T13:29:28.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
