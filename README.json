@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3764,
+            "stars": 3766,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -86,7 +86,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2055,
+            "stars": 2057,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -274,7 +274,7 @@
             "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3764,
+            "stars": 3766,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -717,7 +717,7 @@
             "open_issues": 0,
             "owner": "BishopFox",
             "repo": "iam-vulnerable",
-            "stars": 596,
+            "stars": 597,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -738,7 +738,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2055,
+            "stars": 2057,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -875,7 +875,7 @@
             "open_issues": 3,
             "owner": "mandiant",
             "repo": "Azure_Workshop",
-            "stars": 615,
+            "stars": 616,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:29:28.251Z",
+    "last_updated": "2026-10-29T13:40:05.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
