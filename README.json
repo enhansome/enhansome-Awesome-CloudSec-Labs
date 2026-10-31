@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3767,
+            "stars": 3769,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -107,7 +107,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2057,
+            "stars": 2058,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -191,7 +191,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -295,7 +295,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5924,
+            "stars": 5925,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -462,7 +462,7 @@
             "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 910,
+            "stars": 909,
             "topics": [
               "apparmor",
               "containers",
@@ -591,7 +591,7 @@
             "id": 402875775,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2025-06-27T08:19:17Z",
+            "last_commit": "2026-10-30T19:45:34Z",
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3767,
+            "stars": 3769,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -738,7 +738,7 @@
             "open_issues": 12,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2057,
+            "stars": 2058,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -828,7 +828,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -896,7 +896,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5924,
+            "stars": 5925,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1033,7 +1033,7 @@
             "open_issues": 14,
             "owner": "genuinetools",
             "repo": "contained.af",
-            "stars": 910,
+            "stars": 909,
             "topics": [
               "apparmor",
               "containers",
@@ -1180,7 +1180,7 @@
             "id": 402875775,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2025-06-27T08:19:17Z",
+            "last_commit": "2026-10-30T19:45:34Z",
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T13:29:32.735Z",
+    "last_updated": "2026-10-31T13:01:07.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1213,7 +1213,7 @@
       "open_issues": 6,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2208,
+      "stars": 2210,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
