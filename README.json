@@ -103,8 +103,8 @@
             "id": 513468803,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2025-05-20T09:25:36Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-04T12:56:29Z",
+            "open_issues": 11,
             "owner": "ine-labs",
             "repo": "AWSGoat",
             "stars": 2060,
@@ -191,7 +191,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5931,
+            "stars": 5935,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2331,
+            "stars": 2332,
             "topics": [
               "appsec",
               "cicd",
@@ -734,8 +734,8 @@
             "id": 513468803,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2025-05-20T09:25:36Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-04T12:56:29Z",
+            "open_issues": 11,
             "owner": "ine-labs",
             "repo": "AWSGoat",
             "stars": 2060,
@@ -828,7 +828,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5931,
+            "stars": 5935,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1153,7 +1153,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2331,
+            "stars": 2332,
             "topics": [
               "appsec",
               "cicd",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:37:32.129Z",
+    "last_updated": "2026-11-04T14:51:05.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
