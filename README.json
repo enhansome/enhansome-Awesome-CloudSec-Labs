@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "doyensec",
             "repo": "cloudsec-tidbits",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "aws",
               "cloudsecurity",
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5937,
+            "stars": 5938,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -493,7 +493,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1318,
+            "stars": 1319,
             "topics": [
               "aws-security",
               "azure-security",
@@ -591,7 +591,7 @@
             "id": 402875775,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T19:45:34Z",
+            "last_commit": "2026-11-07T12:19:11Z",
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
@@ -671,7 +671,7 @@
             "open_issues": 0,
             "owner": "doyensec",
             "repo": "cloudsec-tidbits",
-            "stars": 78,
+            "stars": 79,
             "topics": [
               "aws",
               "cloudsecurity",
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5937,
+            "stars": 5938,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1070,7 +1070,7 @@
             "open_issues": 62,
             "owner": "bridgecrewio",
             "repo": "terragoat",
-            "stars": 1318,
+            "stars": 1319,
             "topics": [
               "aws-security",
               "azure-security",
@@ -1180,7 +1180,7 @@
             "id": 402875775,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T19:45:34Z",
+            "last_commit": "2026-11-07T12:19:11Z",
             "open_issues": 21,
             "owner": "step-security",
             "repo": "github-actions-goat",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:34:30.353Z",
+    "last_updated": "2026-11-07T13:30:03.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
