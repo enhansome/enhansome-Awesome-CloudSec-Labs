@@ -65,7 +65,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3779,
+            "stars": 3780,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -696,7 +696,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3779,
+            "stars": 3780,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:11:57.718Z",
+    "last_updated": "2026-11-11T14:41:13.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
