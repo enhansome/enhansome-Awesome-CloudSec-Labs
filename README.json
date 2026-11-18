@@ -107,7 +107,7 @@
             "open_issues": 9,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2061,
+            "stars": 2063,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -400,7 +400,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5960,
+            "stars": 5961,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -522,7 +522,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 715,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -564,7 +564,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2339,
+            "stars": 2340,
             "topics": [
               "appsec",
               "cicd",
@@ -738,7 +738,7 @@
             "open_issues": 9,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2061,
+            "stars": 2063,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -965,7 +965,7 @@
             "open_issues": 27,
             "owner": "madhuakula",
             "repo": "kubernetes-goat",
-            "stars": 5960,
+            "stars": 5961,
             "topics": [
               "blueteam",
               "cloud-native",
@@ -1105,7 +1105,7 @@
             "open_issues": 5,
             "owner": "Azure",
             "repo": "SimuLand",
-            "stars": 715,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1153,7 +1153,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2339,
+            "stars": 2340,
             "topics": [
               "appsec",
               "cicd",
@@ -1201,7 +1201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:26:40.142Z",
+    "last_updated": "2026-11-18T15:56:50.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1213,7 +1213,7 @@
       "open_issues": 6,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2214,
+      "stars": 2213,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
