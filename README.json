@@ -65,7 +65,7 @@
             "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3799,
+            "stars": 3802,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -128,7 +128,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 798,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -233,7 +233,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "attack-path",
               "azure",
@@ -717,7 +717,7 @@
             "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3799,
+            "stars": 3802,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -780,7 +780,7 @@
             "open_issues": 9,
             "owner": "nccgroup",
             "repo": "sadcloud",
-            "stars": 798,
+            "stars": 799,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "mvelazc0",
             "repo": "BadZure",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "attack-path",
               "azure",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:16:30.264Z",
+    "last_updated": "2026-11-27T16:57:15.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
@@ -1255,7 +1255,7 @@
       "open_issues": 6,
       "owner": "iknowjason",
       "repo": "Awesome-CloudSec-Labs",
-      "stars": 2219,
+      "stars": 2220,
       "topics": []
     },
     "original_repository_sha": "00d740d711ab5a5921b4bfe62c44d50b4492a0ed",
