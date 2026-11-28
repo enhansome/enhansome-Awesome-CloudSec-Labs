@@ -107,7 +107,7 @@
             "open_issues": 9,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2064,
+            "stars": 2065,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -212,7 +212,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1033,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -585,7 +585,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2340,
+            "stars": 2339,
             "topics": [
               "appsec",
               "cicd",
@@ -759,7 +759,7 @@
             "open_issues": 9,
             "owner": "ine-labs",
             "repo": "AWSGoat",
-            "stars": 2064,
+            "stars": 2065,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -870,7 +870,7 @@
             "open_issues": 6,
             "owner": "Semperis",
             "repo": "EntraGoat",
-            "stars": 1033,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:16.120Z"
@@ -1195,7 +1195,7 @@
             "open_issues": 0,
             "owner": "cider-security-research",
             "repo": "cicd-goat",
-            "stars": 2340,
+            "stars": 2339,
             "topics": [
               "appsec",
               "cicd",
@@ -1243,7 +1243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:57:15.315Z",
+    "last_updated": "2026-11-28T15:48:05.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome free cloud native security learning labs.  Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs. ",
